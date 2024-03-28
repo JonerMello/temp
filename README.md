@@ -7,6 +7,7 @@ Seja:
 -   $N$ o número de formas (ex,. métodos, algoritmos) nas quais o framework satisfaz a pergunta do nível.
 
 Então, a pontuação $S$ pode ser definida como:
+
 $$
 S = \begin{cases} 
 0 & \text{se } N = 0 \\
@@ -16,9 +17,12 @@ S = \begin{cases}
 $$
 
 Essa formulação matemática expressa claramente as condições de pontuação para cada pergunta: 
-| "N"= Não se aplica          | "P"= Parcial| "T"= Total|
-| ---------------------- | --------------------- | ---------------------- |
+
+| "N"= Não se aplica       | "P"= Parcial            | "T"= Total               |
+| ------------------------ | ----------------------- | ------------------------ |
 | $0$ pontos quando $N=0$. | $1$ ponto quando $N=1$. | $2$ pontos quando $N≥2$. |
+
+
 No caso em que o número de possibilidades de resposta é conhecido, como no exemplo das etapas do pipeline de um framework, as pontuações são atribuídas da seguinte forma:
 
 -   "N" (Não se aplica) = 0 pontos
@@ -48,8 +52,9 @@ Seja:
 Então, a fórmula pode ser formalizada como:
 
 $$
-S = \left( \frac{{\sum_{i=1}^{N} P_i}}{{N \cdot W}} \right) \times 100
+S=\left( \frac{ {\sum_{i=1}^{N} P_i} }{{N\cdot W}}\right )\times 100
 $$
+
 Essa formulação expressa a pontuação final $S$ como a soma das pontuações obtidas para todas as perguntas dividida pelo produto do número total de perguntas e da pontuação máxima por pergunta, tudo isso multiplicado por 100 para obter a porcentagem final.
 
 ## Aplicação pratica
