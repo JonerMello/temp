@@ -54,27 +54,24 @@ Essa formulação expressa a pontuação final $S$ como a soma das pontuações 
 
 ## Aplicação pratica
 
-| Nível                                   | Pergunta                                                                                             | Avaliação | Pontuação | Score |
+| Categoria                               | Pergunta                                                                                             | Avaliação | Pontuação | Score |
 | --------------------------------------- | ---------------------------------------------------------------------------------------------------- | --------- | --------- | ----- |
-| Nível I - Descrição Funcional           | É possível identificar quais são as etapas do pipeline do framework?                                 | T         | 2         | 100   |
+| Descrição Funcional                     | É possível identificar quais são as etapas do pipeline do framework?                                 | T         | 2         | 100   |
 |                                         | Está claro como cada componente funciona?                                                            | T         | 2         |       |
 |                                         | Está claro quais são as entradas e saídas do framework?                                              | T         | 2         |       |
 |                                         | Está claro como o framework é executado na prática?                                                  | T         | 2         |       |
 |                                         | Está claro como os resultados do framework são interpretados?                                        | T         | 2         |       |
-|   
-| Nível II - Análise Estatística          | As previsões do modelo estão detalhadas e podem ser usadas na tomada de decisões?                    | P         | 1         | 50    |
+| Análise Estatística                     | As previsões do modelo estão detalhadas e podem ser usadas na tomada de decisões?                    | P         | 1         | 50    |
 |                                         | O framework apresenta os dados utilizados para treinar o modelo?                                     | P         | 1         |       |
 |                                         | O framework apresenta quais características são mais importantes para o modelo?                      | P         | 1         |       |
 |                                         | O framework explica a relação entre as características e a saída do modelo?                          | P         | 1         |       |
 |                                         | O framework apresenta as métricas de desempenho do modelo?                                           | P         | 1         |       |
 |                                         | O framework apresenta explicação para modelos caixas brancas?                                        | P         | 1         |       |
-| |
-| Nível III - Transparência Algorítmica   | É possível identificar quais algoritmos específicos são utilizados no framework?                     | N         | 0         | 0     |
+| Transparência Algorítmica               | É possível identificar quais algoritmos específicos são utilizados no framework?                     | N         | 0         | 0     |
 |                                         | O código-fonte do framework está disponível para análise?                                            | N         | 0         |       |
 |                                         | Podemos entender como o framework funciona olhando para os algoritmos que ele usa?                   | N         | 0         |       |
 |                                         | É possível identificar os parâmetros internos do algoritmos(e.g., hiperparametros)?                  | N         | 0         |       |
-| |
-| Nível IV - Interpretabilidade do modelo | O framework oferece funcionalidades para seleção de características? (Pré-Model)                     | N         | 0         | 20    |
+| Interpretabilidade do modelo            | O framework oferece funcionalidades para seleção de características? (Pré-Model)                     | N         | 0         | 20    |
 |                                         | O framework oferece técnicas para reduzir a dimensionalidade do conjunto de dados? (Pré-Model)       | P         | 1         |       |
 |                                         | O framework oferece técnicas para reduzir a dimensionalidade expecificas para o dominio? (Pré-Model) | P         | 1         |       |
 |                                         | O framework oferece formas para visualizar os dados? (Pré-Model)                                     | N         | 0         |       |
@@ -84,8 +81,7 @@ Essa formulação expressa a pontuação final $S$ como a soma das pontuações 
 |                                         | O framework oferece métodos para analisar a importância das características? (Pós-Model)             | N         | 0         |       |
 |                                         | O framework oferece métodos para visualizar a estrutura do modelo? (Pós-Model)                       | P         | 1         |       |
 |                                         | O framework oferece métodos interpretabilidade independentes de modelo? (Pós-Model)                  | N         | 0         |       |
-| |
-| Nível V - Análise Interna               | É possível identificar e explicar decisões do modelo em um nível granular (LOCAL/GLOBAL)?            | N         | 0         | 37,5  |
+| Análise Interna                         | É possível identificar e explicar decisões do modelo em um nível granular (LOCAL/GLOBAL)?            | N         | 0         | 37,5  |
 |                                         | É possível identificar e explicar os principais fatores que influenciam as decisões do modelo?       | T         | 2         |       |
 |                                         | É possível identificar e explicar etapas complexas na lógica do modelo(BLACK-BOX)?                   | P         | 1         |       |
 |                                         | É possível visualizar as projeções da mecânica interna do modelo (e.g., núcleos de convolução)?      | N         | 0         |       |
