@@ -113,4 +113,4 @@ Essa formulação expressa a pontuação final $S$ como a soma das pontuações 
 |                            | 50          | 50        | 50    | 50          |
 
 
-![enter image description here](https://raw.githubusercontent.com/JonerMello/COVID19/master/IMG/Transpar%C3%AAncia.png)
+![enter image description here](https://raw.githubusercontent.com/JonerMello/COVID19/master/IMG/avaliacaoferramentas.png)
