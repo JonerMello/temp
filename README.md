@@ -81,7 +81,7 @@ Essa formulação expressa a pontuação final $S$ como a soma das pontuações 
 | Análise Interna        | Existem métodos para visualizar a estrutura do modelo? (Pós-Modelo)                                | T         | 2         | 100   |
 
 ## Aplicação pratica
-A avaliação completa para cada ferramenta pode ser acessada [aqui](https://docs.google.com/spreadsheets/d/1c2qwqgmLOP2xFLGUhIZIT0aSuF76U2CDmsYAb0oEJ0Y/edit?pli=1#gid=879596810).
+A avaliação completa para cada ferramenta pode ser acessada [aqui](https://docs.google.com/spreadsheets/d/1c2qwqgmLOP2xFLGUhIZIT0aSuF76U2CDmsYAb0oEJ0Y/edit?pli=1#gid=879596810) :arrow_down:
 
 ### Tabela Avaliação de Transparência e Interpretabilidade de Frameworks de AutoML
 
