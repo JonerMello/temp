@@ -2,18 +2,6 @@
 
 O checklist proposto combina conceitos de transparência e interpretabilidade propostos por diversos trabalhos na literatura [1][2][3][4][5]. O objetivo é aplicar esses conceitos de forma categórica por meio de um checklist destinado a avaliar o nível de transparência e interpretabilidade de frameworks de AutoML. A pontuação das perguntas é baseada no número de formas em que o framework atende a cada critério, variando de 0 a 2 pontos, dependendo do grau de cumprimento. Essa pontuação é então normalizada em uma escala de 0 a 100% para cada nível de avaliação, garantindo uma comparação justa e consistente entre diferentes frameworks. A abordagem considera tanto questões específicas, como a funcionalidade das etapas do pipeline, quanto aspectos mais amplos, como a análise estatística e a transparência algorítmica, proporcionando uma avaliação abrangente e detalhada dos frameworks examinados.
 
-**Referências:**
-## Fontes:
-
-1. Arrieta, A. B., Díaz-Rodríguez, N., Del Ser, J., Bennetot, A., Tabik, S., Barbado, A., ... & Benjamins, R. (2020). Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI. *Information fusion*, 58, 82-115. [Link](https://doi.org/10.1016/j.inffus.2019.12.012)
-
-2. Love, P. E., Fang, W., Matthews, J., Porter, S., Luo, H., & Ding, L. (2023). Explainable artificial intelligence (XAI): Precepts, models, and opportunities for research in construction. *Advanced Engineering Informatics*, 57, 102024. [Link](https://doi.org/10.1016/j.aei.2021.102024)
-
-3. Mi, J. X., Li, A. D., & Zhou, L. F. (2020). Review study of interpretation methods for future interpretable machine learning. *IEEE Access*, 8, 191969-191985. [Link](https://doi.org/10.1109/ACCESS.2020.3033626)
-
-4. Carvalho, D. V., Pereira, E. M., & Cardoso, J. S. (2019). Machine learning interpretability: A survey on methods and metrics. *Electronics*, 8(8), 832. [Link](https://doi.org/10.3390/electronics8080832)
-
-5. Brännström, M. (2023). Transparency of Complex Systems: The Semantic Transparency Framework. [Link](https://www.semanticscholar.org/paper/Transparency-of-Complex-Systems%3A-The-Semantic-Br%C3%A4nnstr%C3%B6m/efb398a4e1b5716729de562a47fae081d517943c)
 
 
 ## Pontuação das perguntas
@@ -147,3 +135,17 @@ A avaliação completa para cada ferramenta pode ser acessada [aqui](https://doc
 
 
 ![enter image description here](https://raw.githubusercontent.com/JonerMello/COVID19/master/IMG/avaliacaoferramentas.png)
+
+
+**Referências:**
+## Fontes:
+
+1. Arrieta, A. B., Díaz-Rodríguez, N., Del Ser, J., Bennetot, A., Tabik, S., Barbado, A., ... & Benjamins, R. (2020). Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI. *Information fusion*, 58, 82-115. [Link](https://doi.org/10.1016/j.inffus.2019.12.012)
+
+2. Love, P. E., Fang, W., Matthews, J., Porter, S., Luo, H., & Ding, L. (2023). Explainable artificial intelligence (XAI): Precepts, models, and opportunities for research in construction. *Advanced Engineering Informatics*, 57, 102024. [Link](https://doi.org/10.1016/j.aei.2021.102024)
+
+3. Mi, J. X., Li, A. D., & Zhou, L. F. (2020). Review study of interpretation methods for future interpretable machine learning. *IEEE Access*, 8, 191969-191985. [Link](https://doi.org/10.1109/ACCESS.2020.3033626)
+
+4. Carvalho, D. V., Pereira, E. M., & Cardoso, J. S. (2019). Machine learning interpretability: A survey on methods and metrics. *Electronics*, 8(8), 832. [Link](https://doi.org/10.3390/electronics8080832)
+
+5. Brännström, M. (2023). Transparency of Complex Systems: The Semantic Transparency Framework. [Link](https://www.semanticscholar.org/paper/Transparency-of-Complex-Systems%3A-The-Semantic-Br%C3%A4nnstr%C3%B6m/efb398a4e1b5716729de562a47fae081d517943c)
