@@ -101,7 +101,7 @@ Essa formulação expressa a pontuação final $S$ como a soma das pontuações 
 
 
 ## Aplicação pratica
-A avaliação completa para cada ferramenta pode ser acessada [aqui]([https://docs.google.com/spreadsheets/d/1c2qwqgmLOP2xFLGUhIZIT0aSuF76U2CDmsYAb0oEJ0Y/edit?pli=1#gid=879596810](https://docs.google.com/spreadsheets/d/1B3uKCdwRsdOYjzJNuYtJmMN87GJ1njXr5GLsLm7hYws/edit?usp=sharing)) :arrow_down:
+A avaliação completa para cada ferramenta pode ser acessada [aqui]([https://docs.google.com/spreadsheets/d/1B3uKCdwRsdOYjzJNuYtJmMN87GJ1njXr5GLsLm7hYws/edit?usp=sharing]) :arrow_down:
 
 ### Tabela Avaliação de Transparência e Interpretabilidade de Frameworks de AutoML
 
