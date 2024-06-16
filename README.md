@@ -101,37 +101,52 @@ Essa formulação expressa a pontuação final $S$ como a soma das pontuações 
 
 
 ## Aplicação pratica
-A avaliação completa para cada ferramenta pode ser acessada [aqui](https://docs.google.com/spreadsheets/d/1c2qwqgmLOP2xFLGUhIZIT0aSuF76U2CDmsYAb0oEJ0Y/edit?pli=1#gid=879596810) :arrow_down:
+A avaliação completa para cada ferramenta pode ser acessada [aqui]([https://docs.google.com/spreadsheets/d/1c2qwqgmLOP2xFLGUhIZIT0aSuF76U2CDmsYAb0oEJ0Y/edit?pli=1#gid=879596810](https://docs.google.com/spreadsheets/d/1B3uKCdwRsdOYjzJNuYtJmMN87GJ1njXr5GLsLm7hYws/edit?usp=sharing)) :arrow_down:
 
 ### Tabela Avaliação de Transparência e Interpretabilidade de Frameworks de AutoML
 
-| Categoria                  | AutoSklearn | AutoGloun | TPOT  | LightAutoML |
-|----------------------------|-------------|-----------|-------|-------------|
-| **Descrição Funcional**    |             |           |       |             |
-|                            | 100         | 100       | 50    | 100         |
-|                            |             |           |       |             |
-|                            |             |           |       |             |
-|                            |             |           |       |             |
-| **Análise Estatística**    |             |           |       |             |
-|                            | 40          | 50        | 50    | 80          |
-|                            |             |           |       |             |
-|                            |             |           |       |             |
-|                            |             |           |       |             |
-|                            |             |           |       |             |
-| **Transparência Algorítmica** |          |           |       |             |
-|                            | 50          | 50        | 50    | 72.5        |
-|                            |             |           |       |             |
-|                            |             |           |       |             |
-|                            |             |           |       |             |
-| **Interpretabilidade**     |             |           |       |             |
-|                            | 75          | 41.66     | 33.33 | 75          |
-|                            |             |           |       |             |
-|                            |             |           |       |             |
-|                            |             |           |       |             |
-|                            |             |           |       |             |
-|                            |             |           |       |             |
-| **Análise Interna**        |             |           |       |             |
-|                            | 50          | 50        | 50    | 50          |
+| **Categoria**               | **Ferramenta**  | **Pontuação Total** |
+|-----------------------------|-----------------|---------------------|
+| **Descrição Funcional**     | AutoGluon       | 100                 |
+|                             | MH-AutoML       | 100                 |
+|                             | Auto-Sklearn    | 100                 |
+|                             | TPOT            | 100                 |
+|                             | AutoPyTorch     | 100                 |
+|                             | LightAutoML     | 100                 |
+|                             | HyperGBM        | 100                 |
+|                             | MLJar           | 100                 |
+| **Análise Estatística**     | AutoGluon       | 80                  |
+|                             | MH-AutoML       | 70                  |
+|                             | Auto-Sklearn    | 60                  |
+|                             | TPOT            | 60                  |
+|                             | AutoPyTorch     | 60                  |
+|                             | LightAutoML     | 60                  |
+|                             | HyperGBM        | 80                  |
+|                             | MLJar           | 100                 |
+| **Transparência Algorítmica**| AutoGluon      | 75                  |
+|                             | MH-AutoML       | 87.5                |
+|                             | Auto-Sklearn    | 50                  |
+|                             | TPOT            | 50                  |
+|                             | AutoPyTorch     | 75                  |
+|                             | LightAutoML     | 75                  |
+|                             | HyperGBM        | 75                  |
+|                             | MLJar           | 75                  |
+| **Interpretabilidade**      | AutoGluon       | 41.6                |
+|                             | MH-AutoML       | 41.6                |
+|                             | Auto-Sklearn    | 25                  |
+|                             | TPOT            | 8.33                |
+|                             | AutoPyTorch     | 33.33               |
+|                             | LightAutoML     | 41.6                |
+|                             | HyperGBM        | 50                  |
+|                             | MLJar           | 58.33               |
+| **Análise Interna**         | AutoGluon       | 50                  |
+|                             | MH-AutoML       | 0                   |
+|                             | Auto-Sklearn    | 50                  |
+|                             | TPOT            | 100                 |
+|                             | AutoPyTorch     | 0                   |
+|                             | LightAutoML     | 0                   |
+|                             | HyperGBM        | 100                 |
+|                             | MLJar           | 100                 |
 
 
 ![enter image description here](https://raw.githubusercontent.com/JonerMello/COVID19/master/IMG/avaliacaoferramentas.png)
